@@ -21,14 +21,29 @@ FIRST HALF (12.00 - 13.30)
 - GIT is software that allows us to keep track of the changes within our files
 - Imagine having written complex code that messed everything up, GIT allow us to return to a previous state where everything was still working
 - It can be used through the command line interface (CLI) or using a graphical user interface (also known as GUI): SourceTree, SmartGit, etc.
+- GitHub is a development platform that allows us to store a copy of our code online (in developer terms: remote)
+- Main benefits are (1) store our code online, (2) let's us easily work together with others in the same repository
+- Explain the difference between GIT and GitHub
+
+_Ask students to create an account on Github if they haven't_
+
+- In order to securely use GitHub we need to create an SSH key
+- SSH keys allow GitHub to identify us as a safe connection
 
 _Create a new local repository and tell students to do the same_
 
-_Show the hidden file `.git` in the folder_
+_Create a sample.txt file through the CLI and commit it to the local repository_
 
 - When you want to save your work, you can make a snapshot of your workspace: this is called 'committing your work', which is another way of saying 'saving your work'
 
-_Create a .txt file through the CLI and commit it to the local repository_
+_Create an SSH key through the CLI_
+
+_Link the SSH key with your GitHub account_
+
+_Do the first push so that local repo and remote repo are in sync_
+
+- Explain the difference between local and remote
+
 
 _Delete the file and commit that change_
 
@@ -36,21 +51,12 @@ _Delete the file and commit that change_
 
 _Show the student the process of reverting back to the first commit_
 
-- GitHub is a development platform that allows us to store a copy of our code online (in developer terms: remote)
-- Main benefits are (1) store our code online, (2) let's us easily work together with others in the same repository
 
-_Ask students to create an account if they haven't_
-
-- In order to securely use GitHub we need to create an SSH key
-- SSH keys allow GitHub to identify us as a safe connection
-
-_Create an SSH key through the CLI_
-
-_Link the SSH key with your GitHub account_
+_Show the hidden file `.git` in the folder_
 
 _Show how to clone the HTML-CSS-GIT repo using SSH_
 
-_Ask students to create an SSH key, link it to their account and clone the repo_
+- Explain the difference between `init` and `clone`
 
 SECOND HALF (14.00 - 16.00)
 

@@ -24,6 +24,10 @@ FIRST HALF (12.00 - 13.30)
 
 _Create a repository and initialize GIT. Show the use of `git branch`, `git checkout -b`_
 
+_Add two different files to two different branches and show how they are not visible to each other_
+
+_Make a sample repository in your account and have students submit pull requests to this repository_
+
 SECOND HALF (14.00 - 16.00)
 
 2. **What is a CSS framework?**

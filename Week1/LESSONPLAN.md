@@ -22,7 +22,7 @@ FIRST HALF (12.00 - 13.30)
 
 - The command line interface (CLI) is a way to navigate your computer by issuing direct commands
 - Desktop application icons are visual shortcuts
-- Commonly used commands
+- Explain concepts of file system, processes, OS and shell in brief
 
 _Show students the most commonly used commands (`ls`, `pwd`, `cd`, `echo`, `cat`, `mkdir`, `touch`, `head`, `tail`)_
 
